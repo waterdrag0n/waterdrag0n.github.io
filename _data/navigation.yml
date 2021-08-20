@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: 'Quick-Start Guide'
-    url: https://waterdrag0n.github.io/
   - title: 'About'
     url: /about/
   - title: 'Categories'
