@@ -111,13 +111,13 @@ author:
       url: 'mailto:sychang0422@gmail.com'
     - label: 'Facebook'
       icon: 'fab fa-fw fa-facebook-square'
-      # url: "https://facebook.com/"
+      url: 'https://www.facebook.com/profile.php?id=100010297243592'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/waterdrag0n'
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
-      # url: "https://instagram.com/"
+      url: 'https://www.instagram.com/water_drag0n/'
 
 # Site Footer
 footer:
@@ -127,13 +127,13 @@ footer:
       url: 'mailto:sychang0422@gmail.com'
     - label: 'Facebook'
       icon: 'fab fa-fw fa-facebook-square'
-      # url: "https://facebook.com/"
+      url: 'https://www.facebook.com/profile.php?id=100010297243592'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/waterdrag0n'
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
-      # url: "https://instagram.com/"
+      url: 'https://www.instagram.com/water_drag0n/'
 
 # Reading Files
 include:
