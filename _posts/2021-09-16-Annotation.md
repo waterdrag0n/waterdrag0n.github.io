@@ -7,6 +7,8 @@ categories:
 tags:
   - [Java, Spring]
 last_modified_at: 2021-09-16
+toc: true  
+toc_sticky: true
 ---
 
 자바 공부를 하다보면 어노테이션을 자주 보게 되지만 이것들이 실제 어떤 일을 하는지에 대해 깊게 생각해본 적은 없을 것이다.
