@@ -115,6 +115,8 @@ class Class4 {
 }
 ```
 
+이어, 심화 문법으로 [Interface, Enum, Generic](https://waterdrag0n.github.io/typescript/Typescript(2)/)에 대해 알아보자.
+
 - 참고
 
 [https://yamoo9.gitbook.io/typescript/classes/getter-setter](https://yamoo9.gitbook.io/typescript/classes/getter-setter)
