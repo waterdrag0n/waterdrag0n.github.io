@@ -6,7 +6,7 @@ categories:
   - Typescript
 tags:
   - [Javascript, js, Typescript, ts, React]
-last_modified_at: 2021-10-21
+last_modified_at: 2021-10-28
 toc: true  
 toc_sticky: true
 ---
@@ -15,7 +15,7 @@ toc_sticky: true
 
 Javascript의 type이 너무 프리하다는 단점(가끔 장점)을 보완해줌과 동시에 기존에 없었던 interface와 enum을 사용할 수 있어 유용하다.
 
-이에 대한 설명은 2편에서 확인해보도록 하고 우선, Typescript의 기본적인 문법을 정리해보자.
+이에 대한 설명은 [2편](https://waterdrag0n.github.io/typescript/Typescript(2)/)에서 확인해보도록 하고 우선, Typescript의 기본적인 문법을 정리해보자.
 
 ## Type
 

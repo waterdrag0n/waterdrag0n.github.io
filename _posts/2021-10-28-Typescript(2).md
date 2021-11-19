@@ -6,13 +6,13 @@ categories:
   - Typescript
 tags:
   - [Javascript, js, Typescript, ts, React]
-last_modified_at: 2021-10-21
+last_modified_at: 2021-10-28
 toc: true  
 toc_sticky: true
 ---
 
 
-[Typescript의 기본 문법 (타입, 접근제한자, getter & setter)](https://waterdrag0n.github.io/typescript/Typescript(1)/)을 알아본 이전 포스팅에 이어 Interface와 Enum에 대해 알아보자.
+[Typescript의 기본 문법 (타입, 접근제한자, getter & setter)](https://waterdrag0n.github.io/typescript/Typescript(1)/)을 알아본 이전 포스팅에 이어 Interface, Enum, Generic에 대해 알아보자.
 
 ## Interface
 
