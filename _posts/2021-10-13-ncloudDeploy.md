@@ -134,7 +134,7 @@ npm -v
 
 추가로 git 등을 설치할 수 있다.
 
-- 참고
+## 참고
 
 [https://kjwsx23.tistory.com/353](https://kjwsx23.tistory.com/353)
 

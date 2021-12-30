@@ -179,6 +179,6 @@ unchecked warning
 
 이를 마커 어노테이션이라고 한다. 
 
-- 참고
+## 참고
 
 자바의 정석 Chapter 12

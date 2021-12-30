@@ -133,7 +133,7 @@ myGenericClass.val1 = 0;
 myGenericClass.func1 = (x, y) => x + y;
 ```
 
-- 참고
+## 참고
 
 [https://velog.io/@soulee__/TypeScript-Interface-2](https://velog.io/@soulee__/TypeScript-Interface-2)
 
