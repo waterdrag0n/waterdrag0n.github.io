@@ -6,7 +6,7 @@ categories:
   - AWS
 tags:
   - [AWS, Cloud]
-last_modified_at: 2021-12-29
+last_modified_at: 2022-01-03
 toc: true  
 toc_sticky: true
 ---
@@ -42,6 +42,10 @@ IAM을 통해 발급받은 키를 카톡방에 뿌리면서 키를 외부에 업
 ### 2021-12-29
 24시간 동안 문제가 없으면 billing team과 검토를 시작한다는 것 같다.
 ![image](https://user-images.githubusercontent.com/70019911/147639276-8722aa02-52b9-4e3e-8503-1cc4c9ef3f80.png)
+### 2022-01-03
+support 측에서 bill을 리뷰하기 전에 다시 이런 일이 생기지 않도록 예방책을 세우라고 요구했고,
+이에 따라 root 계정에서 MFA 설정을 했고, EC2 인스턴스에 CloudWatch 알람을 걸어서 사용량이 일정 기준을 넘으면 자동으로 인스턴스가 중지되고 메일이 오도록 설정했다.
+이제 돈 좀 돌려줬으면 좋겠다... 방금 출금됐다...
 
 
 to be continued
