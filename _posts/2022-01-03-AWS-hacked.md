@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-> 미해결 상태입니다. 진전 있을 시 업데이트 예정
+> 환불 완료! 자세한 내용은 아래 첨부
 
 ## 사건 개요
 와빅 학기말 프로젝트로 ['데이터 파이프라인 구축 프로젝트'](https://github.com/kpsy20/GameBoard)를 진행했다.  
@@ -47,5 +47,13 @@ support 측에서 bill을 리뷰하기 전에 다시 이런 일이 생기지 않
 이에 따라 root 계정에서 MFA 설정을 했고, EC2 인스턴스에 CloudWatch 알람을 걸어서 사용량이 일정 기준을 넘으면 자동으로 인스턴스가 중지되고 메일이 오도록 설정했다.
 이제 돈 좀 돌려줬으면 좋겠다... 방금 출금됐다...
 
+###  2022-01-12
+AWS billing team에서 며칠 간 리뷰를 한 뒤에 결과를 알려준다고 하였는데, 드디어 결정이 났다.  
+내가 사용하지 않은 금액에 대해 환불을 해주겠다고 결정이 났고, 며칠 내에 입금을 해주겠다는 내용이다!  
+돈 굳었다.. 앞으로 key 관리에 있어서 더 조심을 해야겠다.
+![image](https://user-images.githubusercontent.com/70019911/149725290-d8a350e4-c734-4374-8826-d4fe022b3fcf.png)
 
-to be continued
+### 2022-01-13
+하루만에 환불 완료!!
+![image](https://user-images.githubusercontent.com/70019911/149725469-93cb1a7d-8d17-4432-8086-a9eaeab0ee35.png)
+이상 삽질기를 마칩니다.
